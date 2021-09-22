@@ -1,7 +1,7 @@
 import React from "react";
 import Index from "pages/index";
-import Page7 from "pages/page7";
-import Page8 from "pages/page8";
+import Page1 from "pages/page1";
+import Page2 from "pages/page2";
 import Page404 from "pages/page404";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import { createGlobalStyle } from "styled-components";
@@ -20,8 +20,8 @@ export default () => (
         <Switch>
         			<Route exact path='/' component={Index}/>
 			<Route exact path='/index' component={Index}/>
-			<Route exact path='/7' component={Page7}/>
-			<Route exact path='/8' component={Page8}/>
+			<Route exact path='/1' component={Page1}/>
+			<Route exact path='/2' component={Page2}/>
 			<Route component={Page404}/>
         </Switch>
     </Router>

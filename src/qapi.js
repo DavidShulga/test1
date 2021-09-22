@@ -7,8 +7,8 @@ export default {
 			"children": [
 				"614b69ed71cf90001f32064f",
 				"614b69ed71cf90001f320651",
-				"614b6d1f8bdb79001eb18ea1",
-				"614b6d208bdb79001eb18ea3"
+				"614b6d9d71cf90001f32065c",
+				"614b6d9e5aad94001eb5a51a"
 			]
 		},
 		"614b69ed71cf90001f32064f": {
@@ -21,15 +21,15 @@ export default {
 			"name": "index",
 			"pageUrl": "index"
 		},
-		"614b6d1f8bdb79001eb18ea1": {
-			"id": "614b6d1f8bdb79001eb18ea1",
-			"pageUrl": "7",
-			"name": "7"
+		"614b6d9d71cf90001f32065c": {
+			"id": "614b6d9d71cf90001f32065c",
+			"pageUrl": "1",
+			"name": "1"
 		},
-		"614b6d208bdb79001eb18ea3": {
-			"id": "614b6d208bdb79001eb18ea3",
-			"pageUrl": "8",
-			"name": "8"
+		"614b6d9e5aad94001eb5a51a": {
+			"id": "614b6d9e5aad94001eb5a51a",
+			"pageUrl": "2",
+			"name": "2"
 		}
 	},
 	"mode": "production",
